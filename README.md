@@ -1,16 +1,12 @@
 ## 👋 Hey！ Nice to see you 
+<!-- BEGIN VISITOR COUNTER -->
+<a href="https://github.com/username/repo-name" target=" blank">
+<img src="https://visitor-badge.laobi.icu/badge?page id=chenyuancqu.chenyuancqu" alt="visitor badge"/>
+</a>
+<!-- END VISITOR COUNTER -->
 
-<!--
-**chenyuancqu/chenyuancqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
-
-  - 🌱 I’m currently learning at CHONGQING University
-
-  - 🌱 Now i'm working on Vehicular Edge Computing Networks
-    
-  - 📫 How to reach me: chenyuan@stu.cqu.edu.cn <br>
+  - 🌱 Primary research interests: Vehicular Edge Computing Networks<br>
+  - 🌱 主要研究方向：车载边缘计算
 
 
 
