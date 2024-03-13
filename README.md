@@ -1,34 +1,37 @@
-###👋 Hey！ Nice to see you 
+## 👋 Hey！ Nice to see you 
 
 <!--
 **chenyuancqu/chenyuancqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-<div align="center">
+
   - 🌱 I’m currently learning at CHONGQING University
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-</div>
+
+  - 🌱 Now i'm working on Vehicular Edge Computing Networks
+    
+  - 📫 How to reach me: chenyuan@stu.cqu.edu.cn
+  - <br>
 
 
 
+
+## Staring
+<br>
 <!--star数量-->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&theme=transparent" /> 
 </div>
 
-
+## Using Lanuge
+<br>
 <!--使用语言-->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuancqu&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-
+## Technology Stack
+<br>
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
