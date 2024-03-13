@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 
   - 🌱 Now i'm working on Vehicular Edge Computing Networks
     
-  - 📫 How to reach me: chenyuan@stu.cqu.edu.cn
-  - <br>
+  - 📫 How to reach me: chenyuan@stu.cqu.edu.cn <br>
 
 
 
