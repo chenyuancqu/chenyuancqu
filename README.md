@@ -1,8 +1,8 @@
 ## 👋 Hey！ Nice to see you 
-<!-- BEGIN VISITOR COUNTER -->
+<!-- BEGIN VISITOR COUNTER 
 <a href="https://github.com/username/repo-name" target=" blank">
 <img src="https://visitor-badge.laobi.icu/badge?page id=chenyuancqu.chenyuancqu" alt="visitor badge"/>
-</a>
+</a>-->
 <!-- END VISITOR COUNTER -->
 
   - 🌱 Primary research interests: Vehicular Edge Computing Networks<br>
