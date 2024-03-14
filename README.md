@@ -5,8 +5,9 @@
 </a>-->
 <!-- END VISITOR COUNTER -->
 
-  - 🌱 Primary research interests: Vehicular Edge Computing Networks<br>
-  - 🌱 主要研究方向：车载边缘计算
+- ✨ Primary research interests: Vehicular Edge Computing Networks <br>
+- 🌱 Personal website: https://chenyuancqu.github.io <br>
+
 
 
 
