@@ -1,5 +1,5 @@
 <!-- BEGIN VISITOR COUNTER 
-<a href="https://github.com/username/repo-name" target=" blank">
+<a href="https://github.com/chenyuancqu/chenyuancqu" target=" blank">
 <img src="https://visitor-badge.laobi.icu/badge?page id=chenyuancqu.chenyuancqu" alt="visitor badge"/>
 </a>-->
 <!-- END VISITOR COUNTER -->
