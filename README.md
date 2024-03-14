@@ -5,11 +5,10 @@
 </a>-->
 <!-- END VISITOR COUNTER -->
 
-- ✨ Primary research interests: Vehicular Edge Computing Networks <br>
-- 🌱 Personal website: 
-<a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;">YuanChen's Personal Website</a>
+✨**研究方向:**    移动边缘计算， 计算卸载， 多智能体强化学习， 车载边缘计算网络<br>
+🌱**个人网站:** 
+<a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;">    YuanChen's Personal Website</a>   <br>
 
-  <br>
 
 
 
