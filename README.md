@@ -7,7 +7,8 @@
 
 - ✨ Primary research interests: Vehicular Edge Computing Networks <br>
 - 🌱 Personal website: 
-<a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold;">YuanChen's Personal Website</a>
+<a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;">YuanChen's Personal Website</a>
+
   <br>
 
 
