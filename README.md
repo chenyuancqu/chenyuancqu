@@ -12,8 +12,8 @@ Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getlo
     <li>多智能体强化学习</li>
     <li>车载边缘计算网络</li>
 </ul>
-  <h2> 🌱  个人网站: </h2>
-    <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;">    YuanChen's Personal Website</a>   <br>
+  <strong>🌱 个人网站: </strong>
+    <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a>   <br>
 </p>
 
 
@@ -24,19 +24,14 @@ Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getlo
 
 
 
-<h2> 🌟  Staring </h2>
+<h2> 🌟  Staring & Language </h2>
 <br>
 <!--star数量-->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&theme=transparent" /> 
-</div>
-
-<h2> 🧑‍💻  Using Lanuge </h2>
-<br>
-<!--使用语言-->
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuancqu&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
+
 
 <h2> 🕒  Recent Research </h2>
 
