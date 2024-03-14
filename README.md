@@ -1,46 +1,62 @@
-## 👋 Hey！ Nice to see you 
 <!-- BEGIN VISITOR COUNTER 
 <a href="https://github.com/username/repo-name" target=" blank">
 <img src="https://visitor-badge.laobi.icu/badge?page id=chenyuancqu.chenyuancqu" alt="visitor badge"/>
 </a>-->
 <!-- END VISITOR COUNTER -->
 Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor
+<p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
+  <h2> ✨  研究方向: </h2>
+  <ul>
+    <li>移动边缘计算</li>
+    <li>计算卸载</li>
+    <li>多智能体强化学习</li>
+    <li>车载边缘计算网络</li>
+</ul>
+  <h2> 🌱  个人网站: </h2>
+    <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;">    YuanChen's Personal Website</a>   <br>
+</p>
 
-✨**研究方向:**    移动边缘计算， 计算卸载， 多智能体强化学习， 车载边缘计算网络<br>
-🌱**个人网站:** 
-<a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;">    YuanChen's Personal Website</a>   <br>
 
 
 
 
 
 
-## Staring
+
+
+<h2> 🌟  Staring </h2>
 <br>
 <!--star数量-->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&theme=transparent" /> 
 </div>
 
-## Using Lanuge
+<h2> 🧑‍💻  Using Lanuge </h2>
 <br>
 <!--使用语言-->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuancqu&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-## 🕒 Recent Research
-![4831710419833_ pic](https://github.com/chenyuancqu/chenyuancqu/assets/91825269/4e601bf2-c895-46ff-b760-22baba09e019)
+<h2> 🕒  Recent Research </h2>
 
-<div><img src='image/DT_VEC.png' alt="DT-VEC" width="50%" class="center"></div>
-Competition and Cooperative Computation Offloading for Intensive Heterogeneous Tasks in Vehicular Edge Computing Networks <br>
-**Yuan Chen**, Xiuhua Li*, Guozeng Xu and Ling Liu, Xiaofei Wang, and Victor C. M. Leung
-- We investigate the problem of competitive and cooperative computation offloading for intensive heterogeneous tasks with RSU or TaV to effectively reduce the task execution latency and increase the task completion rate under VEC networks.<br>
-- We propose a multi-agent reinforcement learning algorithm based on C3O (MARC3O) to intelligently determine the computation offloading policy for each vehicle according to the state of VEC networks to improve task completion rate while minimizing task execution latency.<br>
-- We evaluate the proposed algorithm through extensive experiments. Simulation results show that the proposed algorithm can significantly reduce task execution latency and improve task completion rates.<br>
+<div><img src='image/system_model.jpg' alt="DT-VEC" width="50%" class="center"></div>
+<br>
+<p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
+  Competition and Cooperative Computation Offloading for Intensive Heterogeneous Tasks in Vehicular Edge Computing Networks <br>
+  <strong>Yuan Chen</strong>, Xiuhua Li*, Guozeng Xu and Ling Liu, Xiaofei Wang, and Victor C. M. Leung <br>
 
 
-## Technology Stack
+  <ul>
+    <li>We investigate the problem of competitive and cooperative computation offloading for intensive heterogeneous tasks with RSU or TaV to effectively reduce the task execution latency and increase the task completion rate under VEC networks.</li>
+    <li>We propose a multi-agent reinforcement learning algorithm based on C3O (MARC3O) to intelligently determine the computation offloading policy for each vehicle according to the state of VEC networks to improve task completion rate while minimizing task execution latency.<br></li>
+    <li>We evaluate the proposed algorithm through extensive experiments. Simulation results show that the proposed algorithm can significantly reduce task execution latency and improve task completion rates.<br></li>
+  </ul>
+</p>
+
+
+
+<h2>🧑‍💻  Technology Stack</h2> 
 <br>
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
@@ -58,7 +74,7 @@ Competition and Cooperative Computation Offloading for Intensive Heterogeneous T
 
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=平常心&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
