@@ -4,6 +4,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page id=chenyuancqu.chenyuancqu" alt="visitor badge"/>
 </a>-->
 <!-- END VISITOR COUNTER -->
+Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor
 
 ✨**研究方向:**    移动边缘计算， 计算卸载， 多智能体强化学习， 车载边缘计算网络<br>
 🌱**个人网站:** 
@@ -27,6 +28,17 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyuancqu&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
+
+## 🕒 Recent Research
+![4831710419833_ pic](https://github.com/chenyuancqu/chenyuancqu/assets/91825269/4e601bf2-c895-46ff-b760-22baba09e019)
+
+<div><img src='image/DT_VEC.png' alt="DT-VEC" width="50%" class="center"></div>
+Competition and Cooperative Computation Offloading for Intensive Heterogeneous Tasks in Vehicular Edge Computing Networks <br>
+**Yuan Chen**, Xiuhua Li*, Guozeng Xu and Ling Liu, Xiaofei Wang, and Victor C. M. Leung
+- We investigate the problem of competitive and cooperative computation offloading for intensive heterogeneous tasks with RSU or TaV to effectively reduce the task execution latency and increase the task completion rate under VEC networks.<br>
+- We propose a multi-agent reinforcement learning algorithm based on C3O (MARC3O) to intelligently determine the computation offloading policy for each vehicle according to the state of VEC networks to improve task completion rate while minimizing task execution latency.<br>
+- We evaluate the proposed algorithm through extensive experiments. Simulation results show that the proposed algorithm can significantly reduce task execution latency and improve task completion rates.<br>
+
 
 ## Technology Stack
 <br>
