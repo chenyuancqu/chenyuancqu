@@ -1,9 +1,9 @@
-
+<!-- BEGIN VISITOR COUNTER 
 <a href="https://github.com/chenyuancqu/chenyuancqu" target=" blank">
 <img src="https://visitor-badge.laobi.icu/badge?page id=chenyuancqu.chenyuancqu" alt="visitor badge"/>
-</a>
-
-Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor
+</a>-->
+<!-- END VISITOR COUNTER -->
+Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.getloli.com/)-*th* visitor
 <p style="line-height: 3; font-family: 'Microsoft YaHei', sans-serif;">
   <h2> ✨  研究方向: </h2>
   <ul>
