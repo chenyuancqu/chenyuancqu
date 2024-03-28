@@ -14,6 +14,8 @@ Hi! U are the [![](https://count.getloli.com/get/@:ThreadLocal)](https://count.g
 </ul>
   <strong>🌱 个人网站: </strong>
     <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a>   <br>
+  <strong>🌱 CSDN：</strong>
+    <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://blog.csdn.net/weixin_40433846?spm=1000.2115.3001.5343</a>   <br>
 </p>
 
 
