@@ -1,19 +1,17 @@
 
-<h2> ✨  研究方向: </h2>
+<h2> ✨  Self Introduction: </h2>
 <ul>
-  <li>移动边缘计算</li>
-  <li>计算卸载</li>
-  <li>多智能体强化学习</li>
-  <li>车载边缘计算网络</li>
+  <li> Hi, here is Yuan Chen's GitHub</li>
+  <li> I'm now majoring in Edge Computing and I will share some interesting projects in my responsibilities, wish to have some helps with you, if you have some questions, welcome to contact with me</li>
+  <li> My website 🌱: </strong>
+  <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a><br> </li>
+  <li>Gmail: yuanchen1099@gmail.com</li>
 </ul>
 <p>
-  <strong>🌱 个人网站: </strong>
-  <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a><br>
-  <strong>🌱 CSDN：</strong>
   <a href="https://blog.csdn.net/weixin_40433846?spm=1000.2115.3001.5343" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://blog.csdn.net</a><br>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenyuancqu&theme=transparent"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
+
 <h2> 🕒  Recent Research </h2>
 <div align="center">
   <img src='image/system_model.jpg' alt="DT-VEC" width="50%">
@@ -48,3 +46,4 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=平常心&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenyuancqu&theme=transparent"/>
