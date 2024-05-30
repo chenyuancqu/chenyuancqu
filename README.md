@@ -1,5 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
-<h2> ✨  研究方向: </h2><br><br><br>
+
+<h2> ✨  研究方向: </h2>
 <ul>
   <li>移动边缘计算</li>
   <li>计算卸载</li>
@@ -12,6 +12,7 @@
   <strong>🌱 CSDN：</strong>
   <a href="https://blog.csdn.net/weixin_40433846?spm=1000.2115.3001.5343" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://blog.csdn.net</a><br>
 </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenyuancqu&theme=transparent"/>
 <h2> 🕒  Recent Research </h2>
 <div align="center">
