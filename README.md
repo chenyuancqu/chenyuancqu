@@ -1,15 +1,19 @@
+<div style="display: flex; align-items: center;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
 
-<h2> ✨  Self Introduction: </h2>
-<ul>
-  <li> Hi, here is Yuan Chen's GitHub</li>
-  <li> I'm now majoring in Edge Computing and I will share some interesting projects in my responsibilities, wish to have some helps with you, if you have some questions, welcome to contact with me</li>
-  <li> My website 🌱: </strong>
-  <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a><br> </li>
-  <li>Gmail: yuanchen1099@gmail.com</li>
-</ul>
+  <div style="margin-left: 20px; line-height: 1.5;">
+    <h2> 🙋Self Introduction: </h2>
+    <ul>
+      <li> Hi, here is Yuan Chen's GitHub</li>
+      <li> I'm now majoring in Edge Computing and I will share some interesting projects in my responsibilities, wish to have some helps with you, if you have some questions, welcome to contact with me</li>
+      <li> My website 🌱: 
+        <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a><br> 
+      </li>
+      <li>Gmail: yuanchen1099@gmail.com</li>
+    </ul>
+  </div>
+</div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
-<br><br><br><br><br><br><br>
 
 <h2> 🕒  Recent Research </h2>
 <div align="center">
@@ -40,9 +44,4 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 </p>
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=平常心&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenyuancqu&theme=transparent"/>
