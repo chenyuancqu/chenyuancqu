@@ -7,10 +7,9 @@
   <a href="https://chenyuancqu.github.io" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://chenyuancqu.github.io</a><br> </li>
   <li>Gmail: yuanchen1099@gmail.com</li>
 </ul>
-<p>
-  <a href="https://blog.csdn.net/weixin_40433846?spm=1000.2115.3001.5343" target="_blank" style="text-decoration: none; font-weight: bold; color: inherit;"> https://blog.csdn.net</a><br>
-</p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
+<br><br><br><br><br><br><br>
 
 <h2> 🕒  Recent Research </h2>
 <div align="center">
