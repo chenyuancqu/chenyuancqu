@@ -2,7 +2,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenyuancqu&show_icons=true&count_private=true&theme=transparent" />
 
   <div style="margin-left: 20px; line-height: 1.5;">
-    <h2> 🙋Self Introduction: </h2>
+    <strong> 🙋Self Introduction: </strong>
     <ul>
       <li> Hi, here is Yuan Chen's GitHub</li>
       <li> I'm now majoring in Edge Computing and I will share some interesting projects in my responsibilities, wish to have some helps with you, if you have some questions, welcome to contact with me</li>
@@ -15,7 +15,7 @@
 </div>
 
 
-<h2> 🕒  Recent Research </h2>
+<strong> 🕒  Recent Research </strong>
 <div align="center">
   <img src='image/system_model.jpg' alt="DT-VEC" width="50%">
 </div>
