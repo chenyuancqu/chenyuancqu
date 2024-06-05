@@ -13,6 +13,7 @@
     </ul>
   </div>
 </div>
+<br>
 
 
 <strong> 🕒  Recent Research </strong>
@@ -29,7 +30,8 @@
   <li>We propose a multi-agent reinforcement learning algorithm based on C3O (MARC3O) to intelligently determine the computation offloading policy for each vehicle according to the state of VEC networks to improve task completion rate while minimizing task execution latency.</li>
   <li>We evaluate the proposed algorithm through extensive experiments. Simulation results show that the proposed algorithm can significantly reduce task execution latency and improve task completion rates.</li>
 </ul>
-<h2>🧑‍💻  Technology Stack</h2>
+<br>
+<strong>🧑‍💻  Technology Stack</strong>
 <br>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=%23fff">
